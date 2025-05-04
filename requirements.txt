@@ -1,11 +1,1 @@
-fastapi
-uvicorn
-sqlalchemy
-pydantic
-passlib[bcrypt]
-python-jose[cryptography]
-pytest
-pytest-cov
-httpx
-python-multipart
-pydantic[email]
+pip install fastapi uvicorn sqlalchemy pydantic passlib[bcrypt] python-jose pytest pytest-cov httpx
